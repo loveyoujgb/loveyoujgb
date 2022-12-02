@@ -13,6 +13,11 @@
   
 <br/> 
   
+#### 👩‍💻I'm currently learning...👩‍💻
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;
+    
+<br/> 
+  
 ![loveyoujgb's github stats](https://github-readme-stats.vercel.app/api?username=loveyoujgb&show_icons=true)
 [![loveyoujgb's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=loveyoujgb&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/loveyoujgb)
 
